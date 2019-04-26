@@ -1,0 +1,10 @@
+#top{
+    font-weight: bolder;
+}
+#admin{
+    color: green;
+}
+.footer{
+    vertical-align:bottom;
+    border:0;
+    }
